@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Awesome Git Demo Heading</h1>
+    <p>This is the tutorial for Git Beginners</p>
     <ul>
         <li>list1</li>
         <li>list2</li>
