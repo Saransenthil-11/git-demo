@@ -7,7 +7,7 @@
     <title>Git Demo</title>
 </head>
 <body>
-    <h1>Git Demo Heading</h1>
+    <h1>Awesome Git Demo Heading</h1>
     <ul>
         <li>list1</li>
         <li>list2</li>
